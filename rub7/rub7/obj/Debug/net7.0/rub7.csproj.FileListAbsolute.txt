@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\rub7\rub7\bin\Debug\net7.0\rub7.exe
+C:\Users\User\source\repos\rub7\rub7\bin\Debug\net7.0\rub7.deps.json
+C:\Users\User\source\repos\rub7\rub7\bin\Debug\net7.0\rub7.runtimeconfig.json
+C:\Users\User\source\repos\rub7\rub7\bin\Debug\net7.0\rub7.dll
+C:\Users\User\source\repos\rub7\rub7\bin\Debug\net7.0\rub7.pdb
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.AssemblyInfo.cs
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.dll
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\refint\rub7.dll
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.pdb
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\rub7.genruntimeconfig.cache
+C:\Users\User\source\repos\rub7\rub7\obj\Debug\net7.0\ref\rub7.dll
